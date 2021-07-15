@@ -1,2 +1,22 @@
 # iALG
 Example data science portfolio
+
+# Project 1:
+## 1.0.1  Overview
+- [Avila Bible Dataset](#Avila-Bible-Dataset)
+    - [Dataset Description](#DATA-SET-DESCRIPTION)
+        - [Class distribution (training set and size)](#Class-distribution-(training-set-and-size))
+        - [Attribute Description](#ATTRIBUTE-DESCRIPTION)
+- [Load Packages](#Load-Packages)
+- [Load Data](#Load-Data)
+- [Split Xtrain and Ytrain](#Split-Xtrain-and-Ytrain)
+- [Transformed Y to label](#Transformed-Y-to-label)
+- [Exploratory Data Analysis(EDA)](#Exploratory-Data-Analysis(EDA))
+- [Create training dataset](#Create-training-dataset)
+- [standardize X_train](#standardize-X_train)
+- [Models for Hyper Parameters(GridsearchCV)](#Models-for-Hyper-Parameters(GridsearchCV))
+- [Majority Voting](#Majority-Voting)
+
+
+
+
