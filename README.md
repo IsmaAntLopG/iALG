@@ -17,8 +17,8 @@ Example data science portfolio
 - [Models for Hyper Parameters(GridsearchCV)](#Models-for-Hyper-Parameters(GridsearchCV))
 - [Majority Voting](#Majority-Voting)
 
-![](https://github.com/IsmaAntLopG/iALG/blob/main/Images/Avila%20Bible.png)
+![](/Images/Avila%20Bible.png)
 
-![](https://github.com/IsmaAntLopG/iALG/blob/main/Images/EDA_Feature(Count).PNG)
-![](https://github.com/IsmaAntLopG/iALG/blob/main/Images/2D%20Clusture%20Chart.png)
-![](https://github.com/IsmaAntLopG/iALG/blob/main/Images/3D%20Cluster%20Chart.png)
+![](/EDA_Feature(Count).PNG)
+![](/Images/2D%20Clusture%20Chart.png)
+![](/Images/3D%20Cluster%20Chart.png)
