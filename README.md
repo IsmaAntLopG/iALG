@@ -1,5 +1,6 @@
 # iALG
 Example data science portfolio
+    <meta property="og:image" content="https://github.githubassets.com/images/modules/open_graph/github-logo.png">
 
 # Project 1:
 ## 1.0.1  Overview
@@ -17,8 +18,9 @@ Example data science portfolio
 - [Models for Hyper Parameters(GridsearchCV)](#Models-for-Hyper-Parameters(GridsearchCV))
 - [Majority Voting](#Majority-Voting)
 
-![](/Images/Avila%20Bible.png)
+![](Images/Avila%20Bible.png)
 
-![](/EDA_Feature(Count).PNG)
-![](/Images/2D%20Clusture%20Chart.png)
-![](/Images/3D%20Cluster%20Chart.png)
+![](EDA_Feature(Count).PNG)
+![](Images/2D%20Clusture%20Chart.png)
+![](Images/3D%20Cluster%20Chart.png)
+-test
