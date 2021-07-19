@@ -1,4 +1,6 @@
 # iALG
+![](Images/1$@3!.PNG)
+
 Example data science portfolio
     <meta property="og:image" content="https://github.githubassets.com/images/modules/open_graph/github-logo.png">
 
